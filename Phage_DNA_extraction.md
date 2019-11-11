@@ -1,6 +1,16 @@
 Phage HMW (full-length) DNA extraction and purification
 -------------------------------------------------------
 
+#### Materials
+
+* Homogenization buffer (HB)
+	* 30mM Tris HCl (pH 8.0)
+	* 10mM EDTA
+	* 0.1M NaCl
+	* 0.5% Triton X-100
+* SDS 10%
+* Proteinase K (stock 20 mg/ml)
+
 #### Culture lysis
 1. Grow bacterial culture overnight in LB from a colony
 2. Transfer 100mL to 400mL of fresh LB
@@ -21,8 +31,10 @@ Phage HMW (full-length) DNA extraction and purification
 #### DNA purification 
 1. Add 5ul DNase I (1U/ul) and 2ul RNase A (10mg/ml)
 2. Incubate at 37C for 60 minutes
-3. Add 20ul 0.5M EDTA, 200ul 10% SDS (to a final concentration of 2%), and 5ul Proteinase K (20mg/ml)
-5. Incubate at 56C for 60 minutes
+3. Repeat steps 2-6 above
+4. Resuspend pellet in 500ul HB
+3. Add 125ul SDS (to a final concentration of 2%) and 10ul Proteinase K (to a final concentration of ~300ug/ml)
+5. Incubate at 56C for 60 minutes, inverting to mix occasionally
 
 #### Cleanup
 1. Any column or SPRI bead cleanup, verbatim, but avoid vortexing
