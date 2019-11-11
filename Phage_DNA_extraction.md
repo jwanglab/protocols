@@ -21,7 +21,7 @@ Phage HMW (full-length) DNA extraction and purification
 #### DNA purification 
 1. Add 5ul DNase I (1U/ul) and 2ul RNase A (10mg/ml)
 2. Incubate at 37C for 60 minutes
-3. Add 20ul 0.5M EDTA and 5ul Proteinase K (20mg/ml)
+3. Add 20ul 0.5M EDTA, 200ul 10% SDS (to a final concentration of 2%), and 5ul Proteinase K (20mg/ml)
 5. Incubate at 56C for 60 minutes
 
 #### Cleanup
