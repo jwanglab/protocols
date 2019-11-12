@@ -3,13 +3,14 @@ Phage HMW (full-length) DNA extraction and purification
 
 #### Materials
 
-* 10X DNase I Buffer
-  * 100 mM Tris, pH 7.5
-  * 25 mM MgCl2
-  * 5 mM CaCl2
+* DNase I Buffer (1x)
+  * 10 mM Tris, pH 7.5
+  * 2.5 mM MgCl2
+  * 0.5 mM CaCl2
 * SDS 10%
 * Proteinase K (stock 20 mg/ml)
 * DNase I (Ambion 2U/µl)
+* NaCl 5M
 * NaCl (crystal)
 * PEG 8000 (crystal)
 
@@ -21,22 +22,23 @@ Phage HMW (full-length) DNA extraction and purification
 
 #### Phage precipitation
 1. Remove a 50mL aliquot from the phage culture
+  * 1ml of lysate with a titer of 1 x 10^10 contains ~500ng of phage DNA, assuming a genome size of 50kb
 2. Add NaCl to a final concentration of 1M (2.92g for a 50mL lysate) and dissolve by swirling 
 3. Add PEG 8000 to a final concentration of 10% (w/v in g/mL; 5g for a 50mL lysate) and dissolve by stirring at room temperature
 4. Incubate mixture on ice for 1 hour
 5. Centrifuge the mixture at 4000g for 25 min at 4C
 6. Discard the supernatant. Tilt the container to allow excess liquid to drain away from the pellet
-7. Gently resuspend the pellet 500µl of nuclease-free water (or 1x DNase I buffer). Wash the walls of the container thoroughly in the process
+7. Gently resuspend the pellet 500µl of DNase I buffer. Wash the walls of the container thoroughly in the process
 8. Centrifuge the suspension at 3000g for 15 min at 4C
 9. Transfer the supernatant to a 1.5ml microfuge tube
 
 #### DNA purification 
-1. Add 55µl 10X DNase I buffer, 5µl DNase I (2U/µl), and 2µl RNase A (10mg/ml)
+1. Add 2µl DNase I (2U/µl) and 1µl RNase A (10mg/ml)
 2. Incubate at 37C for 10 minutes
 3. Add 10µl of 0.5M EDTA (to a final concentration of 10 mM)
 4. Heat inactivate at 75°C for 10 minutes
 5. Add 10µl 5M NaCl (to a final concentration of 0.1M)
-6. Add 150µl SDS (to a final concentration of ~2%) and 10µl Proteinase K (to a final concentration of ~300µg/ml)
+6. Add 125µl SDS (to a final concentration of ~2%) and 10µl Proteinase K (to a final concentration of ~300µg/ml)
 7. Incubate at 56C for 60 minutes, inverting to mix occasionally
 
 #### Cleanup
@@ -50,3 +52,4 @@ Citations
 Protocols we read/used before generating this one include:
 
 * Dziuginta Jakociune and Arshnee Moodley. A Rapid Bacteriophage DNA Extraction Method. Methods and protocols. 27 July 2018.
+* Center for Phage Technology Protocol: Phage DNA extraction - traditional. Texas A&M University, College Station, TX 77843 Rev. 9/21/2018.
