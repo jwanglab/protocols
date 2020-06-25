@@ -39,26 +39,29 @@ Phage HMW (full-length) DNA extraction and purification
 1. Add 55µl 10x DNase I buffer and 2µl DNase I, mix by inversion
 2. Incubate at 37C for 10 minutes
 3. Add 11µl of 0.5M EDTA (to a final concentration of ~10 mM), mix by inversion
-4. Incubate (heat inactivate DNase) at 75°C for 10 min
-5. Add 10µl 5M NaCl (to a final concentration of ~0.1M)
-6. Add 125µl SDS (to a final concentration of ~2%)
-7. Add 10µl Proteinase K (to a final concentration of ~300µg/ml)
-8. Incubate at 56-65C for 60 minutes
+4. Add 10µl 5M NaCl (to a final concentration of ~0.1M)
+5. Add 125µl SDS (to a final concentration of ~2%)
+6. Add 10µl Proteinase K (to a final concentration of ~300µg/ml)
+7. Incubate at 60C for 60 minutes
 
 #### Cleanup
-1. Add 400µl resuspended Ampure XP beads
+1. Add 0.4x (285ul) resuspended Ampure XP beads
 2. Mix by inversion (or on rotator) for 5 min
 3. Pellet beads on magnet until clear and colorless
-4. Without disturbing the pellet (or smear), add 700µl 70% EtOH and incubate for 30s
-5. Remove EtOH without disturbing the beads
-6. Repeat 4-5
-7. Briefly spin down, replace on magnet, and remove any residual EtOH
-8. Allow to dry briefly (a couple of minutes)
-9. Resuspend beads by pipetting with 50µl nuclease-free water
-10. Incubate at room temperature for 2 min
-11. Pellet beads on magnet until clear and colorless
-12. Remove supernatant to a fresh 1.5ml tube. This is your clean DNA!
+4. Add 700µl 70% EtOH, rotate tube 180 degrees and wait until pellet migrates entirely to the magnet side
+5. Turn again to move pellet back
+6. Remove EtOH without disturbing the beads
+7. Repeat 4-6
+8. Briefly spin down, replace on magnet, and remove any residual EtOH
+9. Allow to dry briefly (a couple of minutes)
+10. Resuspend beads by pipetting with 50µl nuclease-free water
+11. Incubate at room temperature for 2 min
+12. Pellet beads on magnet until clear and colorless
+13. Remove supernatant to a fresh 1.5ml tube. This is your clean DNA!
 
+Notes
+-----
+We previously included an incubation at 75C with EDTA to heat-inactivate DNase, this is NOT necessary - we get completely intact genomes without this step.
 
 Citations
 ---------
